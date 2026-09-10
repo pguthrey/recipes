@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pandoc markdown_versions/hawaiian_salad.md -o hawaiian_salad.html
+pandoc markdown_versions/taiwanese_pork.md -o taiwanese_pork.html
+
