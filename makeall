@@ -3,3 +3,5 @@
 pandoc markdown_versions/hawaiian_salad.md -o hawaiian_salad.html
 pandoc markdown_versions/taiwanese_pork.md -o taiwanese_pork.html
 pandoc markdown_versions/polynesian_pork.md -o polynesian_pork.html
+pandoc markdown_versions/pineapple_fried_rice.md -o pineapple_fried_rice.html
+pandoc markdown_versions/mango_habanero_wings.md -o mango_habanero_wings.html
