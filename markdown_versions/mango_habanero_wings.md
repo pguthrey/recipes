@@ -20,6 +20,7 @@
 ## Make spicy Sauce
 
 Combine:
+
 - 1 cup of the salsa (1/2 jar)
 - 1/2 cup tomato sauce (small can)
 - 1/3 cup honey
@@ -33,6 +34,7 @@ Over low heat, simmer, stirring occasionally, until thickened and reduced.
 ## Make the dip
 
 Combine:
+
 - 1 cup Salsa (1/2 jar)
 - 1/2 cup plain Greek yogurt
 - 2 tablespoons mayonnaise
