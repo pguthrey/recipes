@@ -1,4 +1,4 @@
-## Mango Habanero Chicken Wings with Curry Yogurt Dip
+# Mango Habanero Chicken Wings with Curry Yogurt Dip
 
 ## Ingredients 
 

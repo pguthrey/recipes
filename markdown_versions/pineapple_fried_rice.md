@@ -1,5 +1,5 @@
 
-## Pineapple Fried Rice
+# Pineapple Fried Rice
 
 For about 6 servings:
 
