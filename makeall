@@ -6,3 +6,4 @@ pandoc markdown_versions/polynesian_pork.md -o polynesian_pork.html
 pandoc markdown_versions/pineapple_fried_rice.md -o pineapple_fried_rice.html
 pandoc markdown_versions/mango_habanero_wings.md -o mango_habanero_wings.html
 pandoc markdown_versions/fast_food_sauces.md -o fast_food_sauces.html
+pandoc markdown_versions/lanis_tea.md -o lanis_tea.html
